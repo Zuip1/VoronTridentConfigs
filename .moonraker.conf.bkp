@@ -102,3 +102,6 @@ managed_services =
 subscriptions = 
 	octoeverywhere
 
+[file_manager]
+enable_object_processing = True
+
